@@ -1,16 +1,14 @@
 <p align="right">
-    <a href="https://philipabbyad.com/">philipabbyad.com 🌐</a>
+    <a href="https://mmckeever23.github.io/Today-in-Sports/index.html">Today in Sports 🌐</a>
 </p>
 
-# Hi! 👋
+# Hi! 👋 My name is Matt (*he/him*). 
 
-My name is Matt (*he/him*), I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/)
+- I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/)
+- I'm currently working thourgh courses on [SoloLearn](https://www.sololearn.com/). So far, I've completed courses for [Java](https://www.sololearn.com/certificates/CT-FNOAUWOG) and [JavaScript](https://www.sololearn.com/certificates/CT-DM2O21MY). Next up is Angular + NestJS.
+- I continually work on and update a personal project called [Today in Sports}(https://mmckeever23.github.io/Today-in-Sports/index.html), which is a clean and color-coordinated live-update scoreboard using MLB and NHL APIs with JavaScript, HTML, and CSS. You can check out the source code [here](https://github.com/mmckeever23/Today-in-Sports).
+- My largest project so far was my LaunchCode LiftOff capstone project, **BeenThere**. BeenThere is a travel journaling application utilizing Angular, SpringBoot, SQL, and Google Maps API. You can view the frontend source code [here](https://github.com/mmckeever23/beenthere-frontend) and the backend source code [here](https://github.com/mmckeever23/backend).
 
-- 🎓 I'm currently doing the [Exercism #12in23 challenge](https://exercism.org/challenges/12in23) and learning Elixir for this month - See my completed exercises [here](https://github.com/philipabbyad/exercism-elixir)
-- 🌱 I’m continually practicing Java and JavaScript, and diving deeper with Linux and Bash Scripting
-- 👯 I’m looking to collaborate on open source projects such as the [Fedora Project](https://start.fedoraproject.org/)
-- 🔭 My largest personal project so far is [this Java project](https://github.com/Jul-2022-LC-LiftOff/VolunteerOrganizer) built with a team using Spring Boot, Gradle, Hibernate and Thymeleaf templates. This web application will allow prospective volunteers to search for and match to volunteer events created by organizations.
-<br></br>
 ## Skills
 
 <div>
@@ -24,12 +22,7 @@ My name is Matt (*he/him*), I recently completed [full-stack web development tra
 <a title="Angular" href="https://en.wikipedia.org/wiki/Angular_(web_framework)" target="_blank" rel="noreferrer"><img src="/images/icons/angularjs_original.svg" width="36" height="36" alt="Angular" /></a>
 <a title="Spring" href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank" rel="noreferrer"><img src="/images/icons/spring_original.svg" width="36" height="36" alt="Spring" /></a>
 <a title="Thymeleaf" href="https://en.wikipedia.org/wiki/Thymeleaf" target="_blank" rel="noreferrer"><img src="/images/icons/thymeleaf_original.png" width="36" height="36" alt="Thymeleaf" /></a>
-<a title="Tailwind CSS" href="https://en.wikipedia.org/wiki/Tailwind_CSS" target="_blank" rel="noreferrer"><img src="/images/icons/tailwindcss_plain.svg" width="36" height="36" alt="Tailwind CSS" /></a>
 <a title="Git" href="https://en.wikipedia.org/wiki/Git" target="_blank" rel="noreferrer"><img src="/images/icons/git_original.svg" width="36" height="36" alt="Git" /></a>
-<a title="Docker" href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank" rel="noreferrer"><img src="/images/icons/docker_original.svg" width="36" height="36" alt="Docker" /></a>
 <a title="Bash" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank" rel="noreferrer"><img src="/images/icons/bash_original.svg" width="36" height="36" alt="Bash" /></a>
-<a title="Linux" href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer"><img src="/images/icons/linux_original.svg" width="36" height="36" alt="Linux" /></a>
 <a title="VS Code" href="https://en.wikipedia.org/wiki/Visual_Studio_Code" target="_blank" rel="noreferrer"><img src="/images/icons/vscode_original.svg" width="36" height="36" alt="VS Code" /></a>
 </div>
-
-<a rel="me" href="https://fosstodon.org/@philipabbyad"></a>
