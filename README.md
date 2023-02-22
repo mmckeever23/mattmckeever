@@ -1,6 +1,4 @@
-# Hi 👋 
-
-## My name is Matt (*he/him*). 
+## Hi! 👋 My name is Matt (*he/him*). 
 
 - I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/)
 - I'm currently working thourgh courses on [SoloLearn](https://www.sololearn.com/). So far, I've completed courses for [Java](https://www.sololearn.com/certificates/CT-FNOAUWOG) and [JavaScript](https://www.sololearn.com/certificates/CT-DM2O21MY). Next up is Angular + NestJS.
