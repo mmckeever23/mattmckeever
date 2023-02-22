@@ -1,12 +1,8 @@
-<p align="right">
-    <a href="https://mmckeever23.github.io/Today-in-Sports/index.html">Today in Sports 🌐</a>
-</p>
-
 # Hi! 👋 My name is Matt (*he/him*). 
 
 - I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/)
 - I'm currently working thourgh courses on [SoloLearn](https://www.sololearn.com/). So far, I've completed courses for [Java](https://www.sololearn.com/certificates/CT-FNOAUWOG) and [JavaScript](https://www.sololearn.com/certificates/CT-DM2O21MY). Next up is Angular + NestJS.
-- I continually work on and update a personal project called [Today in Sports}(https://mmckeever23.github.io/Today-in-Sports/index.html), which is a clean and color-coordinated live-update scoreboard using MLB and NHL APIs with JavaScript, HTML, and CSS. You can check out the source code [here](https://github.com/mmckeever23/Today-in-Sports).
+- I continually work on and update a personal project called [Today in Sports](https://mmckeever23.github.io/Today-in-Sports/index.html), which is a clean and color-coordinated live-update scoreboard using MLB and NHL APIs with JavaScript, HTML, and CSS. You can check out the source code [here](https://github.com/mmckeever23/Today-in-Sports).
 - My largest project so far was my LaunchCode LiftOff capstone project, **BeenThere**. BeenThere is a travel journaling application utilizing Angular, SpringBoot, SQL, and Google Maps API. You can view the frontend source code [here](https://github.com/mmckeever23/beenthere-frontend) and the backend source code [here](https://github.com/mmckeever23/backend).
 
 ## Skills
