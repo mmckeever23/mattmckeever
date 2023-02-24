@@ -6,9 +6,7 @@
 - I continually work on and update a personal project called [Today in Sports](https://mmckeever23.github.io/Today-in-Sports/index.html), which is a clean and color-coordinated live-update scoreboard using MLB and NHL APIs with JavaScript, HTML, and CSS. You can check out the source code [here](https://github.com/mmckeever23/Today-in-Sports).
 - My largest project to date is my LaunchCode LiftOff capstone project, **BeenThere**. BeenThere is a travel journaling application utilizing Angular, SpringBoot, SQL, and Google Maps API. You can view the frontend source code [here](https://github.com/mmckeever23/beenthere-frontend) and the backend source code [here](https://github.com/mmckeever23/backend).
 
-## Skills
-
-<div>
+### Skills
 
 <a title="Java" href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank" rel="noreferrer"><img src="/images/icons/java_original.svg" width="36" height="36" alt="Java" /></a>
 <a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"><img src="/images/icons/javascript_original.svg" width="36" height="36" alt="JavaScript" /></a>
