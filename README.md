@@ -2,8 +2,8 @@
 
 - I am a full stack developer based in St. Louis, Missouri.
 - I recently completed [full-stack web development training](https://www.launchcode.org/assets/LC101_Syllabus-93bea34c8b5ae811b9b4c3f3d7f59d47c51e8bb5640d6f7b8c7a7f5b2b23514e.pdf) through [LaunchCode](https://www.launchcode.org/).
+- My largest project to date is my LaunchCode LiftOff capstone project, [BeenThere](http://beenthere.s3-website.us-east-2.amazonaws.com/), a travel journaling application utilizing Angular, SpringBoot, SQL, and Google Maps API. You can view the frontend source code [here](https://github.com/mmckeever23/beenthere-frontend) and the backend source code [here](https://github.com/mmckeever23/backend).
 - I continually work on and update a personal project called [Today in Sports](https://mmckeever23.github.io/Today-in-Sports/index.html), which is a clean and color-coordinated live-update scoreboard using MLB and NHL APIs with JavaScript, HTML, and CSS. You can check out the source code [here](https://github.com/mmckeever23/Today-in-Sports).
-- My largest project to date is my LaunchCode LiftOff capstone project, **BeenThere**. BeenThere is a travel journaling application utilizing Angular, SpringBoot, SQL, and Google Maps API. You can view the frontend source code [here](https://github.com/mmckeever23/beenthere-frontend) and the backend source code [here](https://github.com/mmckeever23/backend).
 - I'm currently working thourgh courses on [SoloLearn](https://www.sololearn.com/). So far, I've completed courses for [Java](https://www.sololearn.com/certificates/CT-FNOAUWOG) and [JavaScript](https://www.sololearn.com/certificates/CT-DM2O21MY). Next up is Angular + NestJS.
 
 ### Skills
